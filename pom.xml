@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>dev.langchain4j</groupId>
+    <artifactId>quarkus-langchain4j-workshop</artifactId>
+    <version>1.0.0</version>
+
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>step-01</module>
+        <module>step-02</module>
+        <module>step-03</module>
+        <module>step-04</module>
+        <module>step-05</module>
+        <module>step-06</module>
+        <module>step-07</module>
+        <module>step-08</module>
+    </modules>
+</project>
