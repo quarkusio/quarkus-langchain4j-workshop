@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+setuptools = "*"
+mkdocs = "*"
+mkdocs-material = "*"
+mkdocs-macros-plugin = "*"
+mkdocs-build-plantuml-plugin = "*"
+mkdocs-video= "*"
+mike = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3"
